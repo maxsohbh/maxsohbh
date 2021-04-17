@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @maxsohbh
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning HTML CSS JavaScript
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me @maxsohbh
+- 💞️ I’m looking to collaborate here
+- 📫 How to reach me @maxsohbh on twitter
 
 <!---
 maxsohbh/maxsohbh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
